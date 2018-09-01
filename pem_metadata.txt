@@ -1,0 +1,4 @@
+File automatically created from SVN or Git repository.
+
+URL: https://github.com/plegall/Piwigo-no_stats_for_robots 
+Revision: cbac30ef51f001d492516f79cb3821efec142d31 (Wed May 16 09:39:52 2018 +0200)

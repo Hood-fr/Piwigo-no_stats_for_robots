@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: No Stats For Robots
-Version: auto
+Version: 2.9.c
 Description: Do not log visits from search engine robots (history and hits)
-Plugin URI: http://piwigo.org/ext/extension_view.php?eid=
+Plugin URI: http://piwigo.org/ext/extension_view.php?eid=762
 Author: plg
 Author URI: http://le-gall.net/pierrick
 */
