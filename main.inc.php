@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: No Stats For Robots
-Version: 2.9.c
+Version: 2.9.d
 Description: Do not log visits from search engine robots (history and hits)
 Plugin URI: http://piwigo.org/ext/extension_view.php?eid=762
 Author: plg
@@ -56,6 +56,7 @@ $bots = array(
   'BUbiNG',
   'MauiBot',
   'The Knowledge AI',
+  'Seekport Crawler',
   );
 
 if (isset($_SERVER["HTTP_USER_AGENT"])
